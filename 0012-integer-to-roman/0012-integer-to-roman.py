@@ -16,11 +16,10 @@ class Solution:
             (1, "I")
         ]
 
-        result = ""
+        res = ""
 
         for value, symbol in roman_map:
             while num >= value:
-                result += symbol
+                res += symbol
                 num -= value
-
-        return result
+        return res
