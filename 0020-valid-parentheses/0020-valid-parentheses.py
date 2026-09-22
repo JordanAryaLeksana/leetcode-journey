@@ -6,7 +6,6 @@ class Solution:
             if char in "([{":
                 res.append(char)
             else:
-                
                 if not res:
                     return False
 
