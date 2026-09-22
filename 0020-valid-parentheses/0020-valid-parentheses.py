@@ -1,15 +1,12 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         res = []
+        pairs = {")": "(", "]": "[", "}": "{"}
         for char in s:
-            if char == "(":
-                res.append(char)
-            elif char == "[":
-                res.append(char)
-            elif char == "{":
+            if char in "([{":
                 res.append(char)
             else:
-                pairs = {")": "(", "]": "[", "}": "{"}
+                
                 if not res:
                     return False
 
