@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/JordanAryaLeksana/leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/JordanAryaLeksana/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/JordanAryaLeksana/leetcode-journey/tree/master/0242-valid-anagram) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JordanAryaLeksana/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JordanAryaLeksana/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JordanAryaLeksana/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JordanAryaLeksana/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JordanAryaLeksana/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search
 |  |
 | ------- |
